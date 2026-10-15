@@ -1,0 +1,55 @@
+{
+  "archive": "_NAACL2027__RRWR_Arxiv.zip",
+  "archive_sha256": "a0d5fe58ad577d1f83c7d0e06e9f1865150940bf5dc168c2762a7eeae21d45cc",
+  "abstract_source": "sec/0_abstract.tex",
+  "benchmark_source": "tables/main/s2mbench_result.tex",
+  "asv_source": "tables/appendix/ablation_model_results.tex",
+  "authors_source": "User-provided author list, affiliations, and Project Lead annotations",
+  "figures": {
+    "teaser": {
+      "source": "figures/main/teaser.pdf",
+      "sha256": "e2b0125cefb03e59b9f4b09bf7563bb5e2699b85c5791bdfe2ea873475008ab4",
+      "pages": 1
+    },
+    "benchmark": {
+      "source": "figures/main/dataset.pdf",
+      "sha256": "7540ef68df5fdf57a118347a33dfc1e88279ae79ac442dffaff0c6c9431e578e",
+      "pages": 1
+    },
+    "method": {
+      "source": "figures/main/framework.pdf",
+      "sha256": "c574a93c0f51c30c9a41673e65e6f319831e7b6fcf22b219ee8ee6cbe670bc8d",
+      "pages": 1
+    },
+    "cbr": {
+      "source": "figures/main/exp_cbr.pdf",
+      "sha256": "514a31a329398d65c66a7f5f75d48e7852a15cedd86ea7895f50657451b548a3",
+      "pages": 1
+    },
+    "qualitative": {
+      "source": "figures/main/exp_qualitative.pdf",
+      "sha256": "a8ec4af13d83388489853c5fab45d6d94f32a9ca992a9bbe46a57c914893f438",
+      "pages": 1
+    },
+    "case-object": {
+      "source": "figures/appendix/qual_object.pdf",
+      "sha256": "5cd0590175a8e45ffb0d938bbe8c33be545b6bef8596fef52698e3c7fcd3c858",
+      "pages": 1
+    },
+    "case-association": {
+      "source": "figures/appendix/qual_association.pdf",
+      "sha256": "7c72df84618913bc8b377eb69a72cf651d9346293124c17f3e5080e83619c43c",
+      "pages": 1
+    },
+    "case-attribute": {
+      "source": "figures/appendix/qual_attribute.pdf",
+      "sha256": "6cd2802a25b6af17b64033875c107b5927302c6db1c49e3abaee0471eb21744c",
+      "pages": 1
+    },
+    "case-relation": {
+      "source": "figures/appendix/qual_relation.pdf",
+      "sha256": "84d86cdf94e0d113016978282911afd0b157fc16572c9214d144a5c2d57643d1",
+      "pages": 1
+    }
+  }
+}

@@ -1,0 +1,76 @@
+[
+  {
+    "name": "An Yibo",
+    "affiliations": [
+      1
+    ],
+    "project_lead": false
+  },
+  {
+    "name": "Zhonghao Yan",
+    "affiliations": [
+      1,
+      2
+    ],
+    "project_lead": true
+  },
+  {
+    "name": "Yuxuan Yang",
+    "affiliations": [
+      1
+    ],
+    "project_lead": false
+  },
+  {
+    "name": "Hao Chen",
+    "affiliations": [
+      3
+    ],
+    "project_lead": true
+  },
+  {
+    "name": "Ruoyan Jing",
+    "affiliations": [
+      1
+    ],
+    "project_lead": false
+  },
+  {
+    "name": "Muxi Diao",
+    "affiliations": [
+      1,
+      2
+    ],
+    "project_lead": false
+  },
+  {
+    "name": "Kongming Liang",
+    "affiliations": [
+      1,
+      2
+    ],
+    "project_lead": false
+  },
+  {
+    "name": "Zhuqing Jiang",
+    "affiliations": [
+      1
+    ],
+    "project_lead": false
+  },
+  {
+    "name": "Zhanyu Ma",
+    "affiliations": [
+      1,
+      2
+    ],
+    "project_lead": false
+  },
+  {
+    "name": "Aidong Men",
+    "affiliations": [
+      1
+    ],
+    "project_lead": false
+  }
+]
