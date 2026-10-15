@@ -86,4 +86,4 @@ This repository hosts the paper project page and manuscript resources. Model cod
 
 Research text, active table values, captions, and figures are sourced from `_NAACL2027__RRWR_Arxiv.zip` supplied by the authors. Provenance is recorded in [content-source.json](content-source.json). The included PDF is compiled from that supplied source; the web author block follows the user's specified names, affiliations, and Project Lead annotations. The source PDF itself retains its original manuscript author block.
 
-Presentation follows the centered author/affiliation header, section-based narrative, figures, tables, and case-viewer organization of [Hepato-LLaVA](https://github.com/PRIS-CV/Hepto-LLaVA), implemented here with independent HTML, CSS, and JavaScript. Paper figures and source images retain their original rights and attribution.
+Paper figures and source images retain their original rights and attribution.
